@@ -37,7 +37,7 @@
 
   // src/config.ts
   var DEFAULT_INSTANCE_URL = "https://inv.nadeko.net";
-  var INSTANCES_JSON_URL = "https://raw.githubusercontent.com/cryotux/invidious-redirect/master/instances.json";
+  var INSTANCES_JSON_URL = "https://raw.githubusercontent.com/kugland/invidious-redirect/master/instances.json";
   var INSTANCE_URL_KEY = "invidious-redirect--instance";
   var INSTANCES_KEY = "invidious-redirect--public-instances";
   var UPDATED_KEY = "invidious-redirect--public-instances-updated";
